@@ -1,0 +1,1 @@
+This project is an end-to-end Sales Data Warehouse and Analytics Platform designed to consolidate, model, and analyze sales data across multiple sources. The solution covers the full data lifecycle—from ingestion and transformation to modeling, KPI tracking, and interactive dashboarding
