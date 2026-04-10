@@ -1,7 +1,7 @@
 This project is an end-to-end Sales Data Warehouse and Analytics Platform designed to consolidate, model, and analyze sales data across multiple sources. The solution covers the full data lifecycle—from ingestion and transformation to modeling, KPI tracking, and interactive dashboarding.
 ## 📌 Business Problems
 
-The company holds large volumes of sales data, but key insights are difficult to obtain due to the lack of a unified analytical system. Comparing performance across branches, cities, and product categories is challenging, making it hard for management to evaluate growth and profitability. Inventory shortages also occur frequently because there is no consolidated view showing which products are consistently out of stock across different branches.
+The company holds large volumes of sales data, but key insights are difficult to obtain due to the lack of a unified analytical system. Comparing performance across branches, cities, and product categories is challenging, making it hard for management to evaluate growth and profitability.
 
 Customer purchasing behaviour is not clearly understood, as the company cannot analyze buying patterns by age group, gender, city, or loyalty level. Measuring essential KPIs such as monthly revenue, quantity sold, discount amounts, profit, and supplier contribution is also difficult due to fragmented data.
 
@@ -21,11 +21,6 @@ The Data Warehouse is designed to answer critical business questions across Sale
 - Which product categories perform best in terms of quantity sold and profit?
 - What are the monthly trends for revenue, profit, and units sold?
 - Which suppliers contribute most to overall performance?
-
-### 🔹 Inventory Management
-- Which products frequently go out of stock across branches?
-- What are the stockout patterns by category, supplier, and location?
-- How do inventory shortages affect sales and customer satisfaction?
 
 ### 🔹 Customer Analytics
 - What is customer purchasing behaviour by age group, gender, city, and loyalty level?
